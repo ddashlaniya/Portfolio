@@ -137,6 +137,9 @@ header .navbar ul li a:hover {
 }
 
 @media(max-width:768px) {
+  .sectionleft img{
+  display: none;
+  }
   #menu {
     display: block;
     position: relative;
